@@ -8,7 +8,7 @@
   ],
   "scripts": {
     "storybook": "start-storybook -p 6006 -c .storybook",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook  -o docs"
   },
   "repository": "https://github.com/suca/storybook-react-typescript",
   "author": "Omar Suca <omarsucap100@gmail.com>",
