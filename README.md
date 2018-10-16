@@ -1,4 +1,5 @@
-#Quick setup
+
+# Quick setup
 
 ```bash
 yarn install
@@ -11,6 +12,10 @@ npm run storybook
 npm run build-storybook
 ```
 
-##Thanks
+## Thanks
 The presentation was based on this awesome repo
+
 https://github.com/sw-yx/react-typescript-storybook-starter
+
+## SLIDES
+https://suca.github.io/storybook-react-typescript/
