@@ -17,7 +17,7 @@ storiesOf("Welcome", module).addWithJSX(
                 Just follow this link for more information about Storybook https://storybook.js.org
             </h5>
             <button type="button" style={{background: '#3c8ee9', padding: '10px', border: 'none'}}>
-                <a style={{color: '#fff', fontSize: '16px', textDecoration: 'none'}} target="_self" href="https://docs.google.com/presentation/d/1ct8H395ktVdojscgHsGgyjNa5OHNn5H_kkiv9AUDwWk/edit?usp=sharing">
+                <a style={{color: '#fff', fontSize: '16px', textDecoration: 'none'}} target="_blank" href="https://docs.google.com/presentation/d/1ct8H395ktVdojscgHsGgyjNa5OHNn5H_kkiv9AUDwWk/edit?usp=sharing">
                     Go to the Slides
                 </a>
             </button>
